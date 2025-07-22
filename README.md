@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Emotional Support Platform
 
 ## Overview
